@@ -5,7 +5,7 @@
 Build using;
 
 ```bash
-docker build -t  jsbeeb .
+docker build -t  alastairhm/jsbeeb .
 ```
 
 Run using;
